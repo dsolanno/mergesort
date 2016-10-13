@@ -1,0 +1,3 @@
+"""
+Merging strategies
+"""
